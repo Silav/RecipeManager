@@ -30,8 +30,8 @@ still be viewable.
 The src folder contains the code, UML diagram and the User Stories.
 
 ## How to run
+* Create a jar file https://www.youtube.com/watch?v=_XQjs1xGtaU.
 * Use cmd (command line) to run by writing the following 
 ```bash
-javac Main.java (to compile it)
-java Main (to run it)
+java -jar RecipeManager.jar
 ``` 
