@@ -26,5 +26,12 @@ There must be a way to change between the user and the dietician. When switching
 during runtime. Generating a new recipe-week, switching to dietician, updating one of the recipes, switching back to the user, then the generated recipe-week should
 still be viewable.
 
-## UML Diagram and User Stories
+## UML Diagrams and User Stories
 The src folder contains the code, UML diagram and the User Stories.
+
+## How to run
+* Use cmd (command line) to run by writing the following 
+```bash
+javac Main.java (to compile it)
+java Main (to run it)
+``` 
